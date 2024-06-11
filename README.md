@@ -1,6 +1,11 @@
-## hello! 
-i'm a full stack developer, and these are some of my skills: <br>
+## Olá visitante!
+Seja bem-vindo ao meu Github.<br>
+Sou desenvolvedor full stack, e aqui você poderá conferir alguns projetos que eu contribui, ou que estou utilizando nos meus estudos. 
+
+Estas são minhas skills:<br>
 [![My Skills](https://skillicons.dev/icons?i=cs,php,dotnet,angular,docker,aws,css,html,mysql)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviobasilio&hide_progress=true)
 
 
 <!--
